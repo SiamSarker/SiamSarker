@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Siam Hossain Sarker</h1>
-<h3 align="center">I love creating new things in development. I mostly like to work in backend programming. I'm highly interested in machine learning and Data Science. I have many volunteering experiences.</h3>
+<h3 align="center">I am a web developer proficient in JavaScript and React, with a particular interest in backend development. My
+final year project focuses on blockchain technology. I am eager to learn about distributed systems and machine
+learning. I also have experience in academic research and volunteering.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsarker&label=Profile%20views&color=0e75b6&style=flat" alt="siamsarker" /> </p>
