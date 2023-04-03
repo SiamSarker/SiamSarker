@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Siam Hossain Sarker</h1>
-<h3 align="center">I am a student proficient in JavaScript and React, with a particular interest in backend development. My
+<h3 align="center">I am a student proficient in JavaScript and React, with a particular interest in backend development with django. My
 final year project focuses on blockchain technology. I am eager to learn about distributed systems and machine
 learning. I also have experience in academic research and volunteering.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
