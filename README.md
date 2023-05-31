@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md. Siam Hossain Sarker</h1>
 <h3 align="center">A Computer Science graduate passionate about software development, with a focus on JavaScript and React. My GitHub showcases a range of projects reflecting my problem-solving skills and proficiency in multiple languages and frameworks. Open to collaboration and exciting opportunities to apply my expertise.
 
-#SoftwareDevelopment #JavaScript #React #OpenToWork</h3>
+#SoftwareEngineer #Laravel #JavaScript #React #OpenToWork</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsarker&label=Profile%20views&color=0e75b6&style=flat" alt="siamsarker" /> </p>
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Laravel, react**
 
-- 💬 Ask me about **JavaScript, React, mySQL**
+- 💬 Ask me about **JavaScript, React, Laravel, mySQL**
 
 - 📫 How to reach me **sarkersiam2@gmail.com**
 
